@@ -1,2 +1,4 @@
 # odin-recipes
-A simple website consisting of links to various cooking recipes.
+A simple website consisting of links to various cooking recipes. 
+
+HTML practice.
