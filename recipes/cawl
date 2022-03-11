@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cawl</title>
+</head>
+
+<body>
+    <h1>Cawl</h1>
+
+    <img
+        src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4528818.jpg&w=595&h=595&c=sc&poi=face&q=60">
+
+    <h2>Description</h2>
+    <p>The recipe that follows is one that is popular with, and derived from, 
+        the local farming community of Cardiganshire.
+    </p>
+
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Beef shank</li>
+        <li>Onions</li>
+        <li>Carrots</li>
+    </ul>
+
+    <ol>Instructions</ol>
+        <li>Cook a beef shank</li>
+        <li>Cook a carrot</li>
+        <li>Eat the beef shank and the carrot</li>
+
+</body>
+
+</html>
