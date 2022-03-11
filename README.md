@@ -1,2 +1,2 @@
 # odin-recipes
-Projects from The Odin Project
+A simple website consisting of links to various cooking recipes.
